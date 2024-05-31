@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(191, 147, 221)
+    background-color: #EE9BB1
 }
 
 header{
@@ -20,4 +20,13 @@ footer{
     color: white;
     text-align: center;
     font-style: italic;
+}
+
+#foto img{
+    width: 200px;
+}
+
+div{
+    text-align: center;
+    padding: 8px;
 }
